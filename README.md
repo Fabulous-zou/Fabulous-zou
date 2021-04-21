@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Fabulous-zou
 - 👀 I’m interested in creating a cryptocurrency
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on collaborating on a project
+- 💞️ I’m looking to collaborate on a project
 - 📫 How to reach me ...
 
 <!---
